@@ -19,6 +19,9 @@ O projeto foi criado com o objetivo de praticar e aprimorar meus conhecimentos e
 - **CSS3:** estilização e organização visual da interface.
 - **JavaScript:** lógica de programação, manipulação do DOM, tratamento de valores e execução das&#x20;
 
+- <img width="1071" height="1066" alt="{C34E2104-3DDF-4B5B-A093-6B420026C309}" src="https://github.com/user-attachments/assets/21eb569d-c02e-43f9-8034-cd600b8ac611" />
+
+
 ## 📚 Objetivos de Aprendizado
 
 Este projeto faz parte da minha jornada de aprendizado em desenvolvimento web, permitindo praticar conceitos como:
